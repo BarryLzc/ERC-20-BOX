@@ -2,13 +2,13 @@ Installation
 First ensure you are in a new and empty directory.
 
 ```
-truffle unbox emojidao/ERC-20-Box
+truffle unbox emojidao/ERC4907Box
 ```
 
 If you want to create a directory, you can also run:
 
 ```
-truffle unbox emojidao/ERC-20-Box <Directory Name>
+truffle unbox emojidao/ERC4907Box <Directory Name>
 ```
 
 Running the unbox command should install the required dependencies.
