@@ -19,6 +19,8 @@ In the client directory, we run the React app. Smart contract changes must be ma
 
 
 // in another terminal (i.e. not in the truffle develop prompt)
+```
 cd client
 npm install
 npm run start
+```
