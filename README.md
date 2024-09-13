@@ -1,4 +1,4 @@
-After installation truffle
+After installation truffle.  
 First ensure you are in a new and empty directory.
 
 ```
